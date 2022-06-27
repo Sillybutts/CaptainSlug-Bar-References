@@ -12,7 +12,7 @@ Files are available in STL, .3MF, STEP, and F3D.
 
 ## v3c Talon Claw
 
-<img src="v3%20talon%20claw%20bar.PNG" width="500">
+<img src="v3c%20talon%20claw%20bar.PNG" width="500">
 
 ## v4 Caliburn
 
