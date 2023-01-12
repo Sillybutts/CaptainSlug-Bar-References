@@ -26,5 +26,5 @@ Files are available in STL, .3MF, STEP, and F3D.
 
 ## H4 Bar
 
-<img src="T4%20talon%20claw%20bar.PNG" width="500">
+<img src="H4%20bar%20spec.PNG" width="500">
 
